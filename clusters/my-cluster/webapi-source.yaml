@@ -8,4 +8,4 @@ spec:
   interval: 1m0s
   ref:
     branch: master
-  url: https://github.com/sylvainmugabo/kubernates-webapi.git
+  url: https://github.com/sylvainmugabo/kubernates-webapi
